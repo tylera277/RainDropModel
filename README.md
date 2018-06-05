@@ -7,16 +7,16 @@ raindrops that the object "hit". The results which I observed for a rectangle wi
 Results-
   
    Speed(m/s)      # of raindrops
-    .5                  59,865
-    1.0                 59,940
-    1.5                 59,960
-    2.0                 59,975
-    2.5                 59,980
-    3.0                 59,985
-    4.0                 59,995
-    5.0                 60,000
-    6.0                 60,000
-   10.0                 60,000
+    (.5                  59,865)
+    (1.0                 59,940)
+    (1.5                 59,960)
+    (2.0                 59,975)
+    (2.5                 59,980)
+    (3.0                 59,985)
+    (4.0                 59,995)
+    (5.0                 60,000)
+    (6.0                 60,000)
+   (10.0                 60,000)
 
 Conclusion-
 According to my model of average rainfall rate over an average time period, the total amount of raindrops you hit is
